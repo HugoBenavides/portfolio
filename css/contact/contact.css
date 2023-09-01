@@ -1,0 +1,92 @@
+.contact{
+    width: 100vw;
+
+    background-color: #454654;
+}
+
+.contact h2{
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: 700;
+    font-size: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.contact__container{    
+    display: flex;
+    width: 100vw;
+    background-color: #454654;
+    justify-content: center;
+}
+
+.contact__container img{
+    width: 45vw;
+    margin-left: 3em;
+}
+.contact__form1{
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    background-color: #454654
+}
+
+
+.contact__form1 label{
+    font-family: 'Montserrat';
+    font-size: 1.5em;
+    font-weight: 400;
+    color: white;
+    margin-left: 15px;
+}
+
+.contact__form1 input, .contact__form1 select{
+    border: 2px solid aqua;
+}
+
+.contact__form-input{
+    width: 350px;
+    height: 50px;
+    margin: 15px;
+    font-family: 'Montserrat';
+    font-size: 1.3em;
+    color: white;
+}
+
+.contact__form-select{
+    width: 250px;
+    height: 50px;
+    margin-left: 15px;
+    font-family: 'Montserrat';
+    font-size: 1.3em;
+    color: black;
+}
+
+.contact__form-option{
+    margin-left: 15px;
+    font-family: 'Montserrat';
+    font-size: 1.3em;
+    color: black;
+}
+
+.contact__form-radio{
+    margin-left: 15px;
+    font-family: 'Montserrat';
+    font-size: 1.3em;
+    color: black;
+}
+
+.contact__form-btn{
+    background-color: aqua;
+    color: black;
+    width: 160px;
+    height: 39px;
+    font-size: 1.3em;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 8em;
+    cursor: pointer;
+}

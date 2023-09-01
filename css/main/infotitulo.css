@@ -1,0 +1,20 @@
+.info__titulo{
+    font-family: Montserrat;
+    font-size: 3em;
+}
+
+.info__content_name{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+.info__content_lastname{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 1.1em;
+    color: aqua;
+}
+
+.info__content__parrafo{
+    font-size: 1.2em;
+}

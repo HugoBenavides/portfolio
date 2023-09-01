@@ -1,0 +1,56 @@
+.about{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    width: 100vw;
+    align-items: center;
+}
+
+.about img{
+    width: 100%;
+    grid-column: 1/5;
+    margin-left: 1em;
+    
+}
+
+.about__info h2{
+    font-family: Montserrat;
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #191c32;
+}
+
+.info__button__about{
+    background-color: aqua;
+    width: 110px;
+    height: 50px;
+    font-size: 1.2em;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+    margin-top: 2em;
+    cursor: pointer;
+}
+
+.info__button__about:hover{
+    background-color: aquamarine;
+    /*box-shadow: 1px 3px 11px -5px, rgba(102, 231, 200, .69);*/
+    transition: 1s;
+}
+
+.about__info{
+    grid-column: 5/10;
+    padding: 2em;
+}
+
+.about__content{
+    margin-top: 1em;
+}
+
+.divider{
+    height: 4px;
+    width: 275px;
+    background-color: #191c32;
+    margin-top: 8px;
+    margin-bottom: 3em;
+}
+

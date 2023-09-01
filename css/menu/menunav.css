@@ -1,0 +1,5 @@
+.menu__nav:hover{
+    color: aqua;
+    font-weight: 700;
+    transition: ease-in .05s;
+}

@@ -1,0 +1,16 @@
+.info__button{
+    font-size: .9em;
+    font-weight: 700;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 2em;
+    margin-left: 23em;
+    cursor: pointer;
+}
+
+.info__button:hover{
+    background-color: aqua;
+    box-shadow: 1px 3px 11px -5px, rgba(102, 231, 200, .69);
+    transition: 1s;
+}

@@ -1,0 +1,2 @@
+Este portafolio es una versión vanilla sin algún framework y se utilizó
+para practicar HTML y enmaquetación web, más adelante podrás encontrar una versión hecha con preprocesadores CSS como SASS, BOOTSTRAP o TailWind.
